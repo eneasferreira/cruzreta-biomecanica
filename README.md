@@ -13,7 +13,7 @@ Arquivo: Script_cruzxeta_EneasIBM.py
 
 Este script foi desenvolvido para reproduzir os calculos
 apresentados na planilha cruzreta.xlsx, disponibilizada
-pelo professor.
+no MOODLE.
 
 ## Script 2 - Dados obtidos em aula
 
